@@ -1,0 +1,12 @@
+[
+  {
+    "user": "SHANKS",
+    "pass": "SHANKS",
+    "vip": true
+  },
+  {
+    "user": "pro",
+    "pass": "pro",
+    "vip": false
+  }
+]
